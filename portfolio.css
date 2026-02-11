@@ -115,6 +115,12 @@ h1 {
 
 h2 {
     font-family: "Maven Pro", sans-serif;
+    font-size: 15px;
+    color: #333;
+}
+
+h2 main {
+    font-family: "Maven Pro", sans-serif;
     font-size: 24px;
     color: #4c5a9a;
     border-bottom: 2px solid #4c5a9a;
